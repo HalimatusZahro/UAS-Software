@@ -7,11 +7,6 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-### Clone Project
-```
-git clone https://github.com/asyrofil-ula/ecommerce.git
-```
-```
 cd ecommerce
 ```
 ## Setup Project
